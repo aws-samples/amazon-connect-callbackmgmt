@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+package-lock.json
+repolint-output.txt
+**/.vscode
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# jest code coverage result folder
+coverage

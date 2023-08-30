@@ -1,0 +1,21 @@
+{
+  "name": "amazon-connect-callbackmgmt",
+  "version": "0.1.0",
+  "bin": {
+    "amazon-connect-callbackmgmt": "bin/main.js"
+  },
+  "scripts": {
+    "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "aws-cdk": "2.83.1",
+    "aws-cdk-lib": "2.83.1",
+    "cdk-nag": "2.27.55",
+    "constructs": "10.1.174"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "3.362.0",
+    "@aws-sdk/lib-dynamodb": "3.362.0"
+  }
+}
