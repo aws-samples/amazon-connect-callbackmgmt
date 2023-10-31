@@ -10,12 +10,12 @@
   },
   "devDependencies": {
     "aws-cdk": "2.83.1",
-    "aws-cdk-lib": "2.83.1",
+    "aws-cdk-lib": "2.101.1",
     "cdk-nag": "2.27.55",
     "constructs": "10.1.174"
   },
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "3.362.0",
-    "@aws-sdk/lib-dynamodb": "3.362.0"
+    "@aws-sdk/client-connect": "3.429.0",
+    "@aws-sdk/client-dynamodb": "3.429.0"
   }
 }
