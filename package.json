@@ -12,7 +12,8 @@
     "aws-cdk": "2.83.1",
     "aws-cdk-lib": "^2.101.1",
     "cdk-nag": "2.27.55",
-    "constructs": "10.1.174"
+    "constructs": "10.1.174",
+    "esbuild": "^0.19.0"
   },
   "dependencies": {
     "@aws-sdk/client-connect": "3.429.0",
